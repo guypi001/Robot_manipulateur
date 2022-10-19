@@ -1,0 +1,3 @@
+Le programme se trouve à la racine du code,
+il n'est pas exécutable.
+Le fichier .exe se trouve dans le repertoire dist/interface sous le nom de interface.exe
